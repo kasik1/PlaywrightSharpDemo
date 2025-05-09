@@ -1,0 +1,12 @@
+TEST_TYPE,TEST_CASE_ID,BUILD,TESTER,NOTES,C_ENVIRONMENT,IP,MODEL,PARENT,FIRST_NAME,DESCRIPTION,user_group
+server_url,,,,,,http://cilsdbxd57950.silver.com,,,,,
+test_check_elements_home,651730,E562_US3056_NIM_QA_Home_Page_Test_Cases,Mayra Jacquieline Herrera,check if exist all titles in home page,SYSTEM,,,,,,
+test_columns_change_log,651730,E562_US3056_NIM_QA_Home_Page_Test_Cases,Mayra Jacquieline Herrera,check if exist all titles in home page,SYSTEM,,,,,,
+test_change_log_link,651730,E562_US3056_NIM_QA_Home_Page_Test_Cases,Mayra Jacquieline Herrera,check the table in change log,SYSTEM,,,,,,
+test_options_user,651730,E562_US3056_NIM_QA_Home_Page_Test_Cases,Mayra Jacquieline Herrera,check users options,SYSTEM,,,,,,
+test_color_dashboard,651730,E562_US3056_NIM_QA_Home_Page_Test_Cases,Mayra Jacquieline Herrera,check color the first page,SYSTEM,,,,,,
+test_log_out,651730,E562_US3056_NIM_QA_Home_Page_Test_Cases,Mayra Jacquieline Herrera,check if log out,SYSTEM,,,,,,
+test_count_element_for_section_ub,651730,E562_US3056_NIM_QA_Home_Page_Test_Cases,Mayra Jacquieline Herrera,check if exist all titles in home page,SYSTEM,,,,,,
+test_options_user_ub,651730,E562_US3056_NIM_QA_Home_Page_Test_Cases,Mayra Jacquieline Herrera,check users options,SYSTEM,,,,,,
+test_color_dashboard_ub,651730,E562_US3056_NIM_QA_Home_Page_Test_Cases,Mayra Jacquieline Herrera,check color the first page,SYSTEM,,,,,,
+test_log_out_ub,651730,E562_US3056_NIM_QA_Home_Page_Test_Cases,Mayra Jacquieline Herrera,check if log out,SYSTEM,,,,,,
